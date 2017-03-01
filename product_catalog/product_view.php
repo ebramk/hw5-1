@@ -1,4 +1,4 @@
-<?php include '../view/header.php'; ?>
+<?php include '../view/categories_nav.php'; ?>
 <main>
     <aside>
         <h1>Categories</h1>
