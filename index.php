@@ -7,7 +7,7 @@
 </head>
     <ul>
         <li>
-            <a href="product_manager">Product Manager</a>
+            <a href="product_manager">Product Manager - Ebram Kerolos Test 1</a>
         </li>
         <li>
             <a href="product_catalog">Product Catalog</a>
